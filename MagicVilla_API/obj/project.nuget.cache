@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Llqp5eqjHh5heCyxqcO+Byy4MAcp6rPKyhjz+6B+vMKK/Fbn0e0YXR976aFZ2cL3eZsBIU4FefNxJfU4zRyM4Q==",
+  "dgSpecHash": "thGnvVogd8wS2vtXOnxtFMueoltR3AfL1E1PFd4y2ZOlEuGschcVG7SYw8SGWoW0kilATzyc/RU0PBdAmyvW4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\storr\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\storr\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\storr\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\storr\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
