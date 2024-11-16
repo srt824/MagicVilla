@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|c:\\users\\storr\\desktop\\udemy\\programacion web net core\\proyectoapi\\magicvilla\\magicvilla_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|solutionrelative:magicvilla_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|c:\\users\\storr\\desktop\\udemy\\programacion web net core\\proyectoapi\\magicvilla\\magicvilla_web\\controllers\\numerovillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|solutionrelative:magicvilla_web\\controllers\\numerovillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|c:\\users\\storr\\desktop\\udemy\\programacion web net core\\proyectoapi\\magicvilla\\magicvilla_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|solutionrelative:magicvilla_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|c:\\users\\storr\\desktop\\udemy\\programacion web net core\\proyectoapi\\magicvilla\\magicvilla_web\\services\\villaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|solutionrelative:magicvilla_web\\services\\villaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|c:\\users\\storr\\desktop\\udemy\\programacion web net core\\proyectoapi\\magicvilla\\magicvilla_web\\services\\iservices\\ivillaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|solutionrelative:magicvilla_web\\services\\iservices\\ivillaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|c:\\users\\storr\\desktop\\udemy\\programacion web net core\\proyectoapi\\magicvilla\\magicvilla_web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|solutionrelative:magicvilla_web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|c:\\users\\storr\\desktop\\udemy\\programacion web net core\\proyectoapi\\magicvilla\\magicvilla_web\\models\\viewmodel\\villapaginadoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|solutionrelative:magicvilla_web\\models\\viewmodel\\villapaginadoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|c:\\users\\storr\\desktop\\udemy\\programacion web net core\\proyectoapi\\magicvilla\\magicvilla_web\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|solutionrelative:magicvilla_web\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|c:\\users\\storr\\desktop\\udemy\\programacion web net core\\proyectoapi\\magicvilla\\magicvilla_web\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|solutionrelative:magicvilla_web\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|c:\\users\\storr\\desktop\\udemy\\programacion web net core\\proyectoapi\\magicvilla\\magicvilla_web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F2842-4061-4850-9E0E-B0E50D82AAFE}|MagicVilla_Web\\MagicVilla_Web.csproj|solutionrelative:magicvilla_web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MagicVilla_Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MagicVilla_Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAADwvzkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T04:07:35.846Z",
+              "Title": "NumeroVillaController.cs",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Controllers\\NumeroVillaController.cs",
+              "RelativeDocumentMoniker": "MagicVilla_Web\\Controllers\\NumeroVillaController.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Controllers\\NumeroVillaController.cs",
+              "RelativeToolTip": "MagicVilla_Web\\Controllers\\NumeroVillaController.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAuwJwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:09:13.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MagicVilla_Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MagicVilla_Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwB4AAAAvAAAAAAAAAA==",
+              "Title": "VillaController.cs",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Controllers\\VillaController.cs",
+              "RelativeDocumentMoniker": "MagicVilla_Web\\Controllers\\VillaController.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Controllers\\VillaController.cs",
+              "RelativeToolTip": "MagicVilla_Web\\Controllers\\VillaController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAA4wF4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T04:01:13.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VillaService.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Services\\VillaService.cs",
-              "RelativeDocumentMoniker": "MagicVilla_Web\\Services\\VillaService.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Services\\VillaService.cs",
-              "RelativeToolTip": "MagicVilla_Web\\Services\\VillaService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAswEEAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T03:58:52.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IVillaService.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Services\\IServices\\IVillaService.cs",
-              "RelativeDocumentMoniker": "MagicVilla_Web\\Services\\IServices\\IVillaService.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Services\\IServices\\IVillaService.cs",
-              "RelativeToolTip": "MagicVilla_Web\\Services\\IServices\\IVillaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T03:47:57.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseService.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Services\\BaseService.cs",
-              "RelativeDocumentMoniker": "MagicVilla_Web\\Services\\BaseService.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Services\\BaseService.cs",
-              "RelativeToolTip": "MagicVilla_Web\\Services\\BaseService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwCoAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T03:39:36.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VillaPaginadoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Models\\ViewModel\\VillaPaginadoViewModel.cs",
-              "RelativeDocumentMoniker": "MagicVilla_Web\\Models\\ViewModel\\VillaPaginadoViewModel.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Models\\ViewModel\\VillaPaginadoViewModel.cs",
-              "RelativeToolTip": "MagicVilla_Web\\Models\\ViewModel\\VillaPaginadoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T03:35:48.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "APIResponse.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Models\\APIResponse.cs",
-              "RelativeDocumentMoniker": "MagicVilla_Web\\Models\\APIResponse.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Models\\APIResponse.cs",
-              "RelativeToolTip": "MagicVilla_Web\\Models\\APIResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T03:33:59.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "APIRequest.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Models\\APIRequest.cs",
-              "RelativeDocumentMoniker": "MagicVilla_Web\\Models\\APIRequest.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Programacion Web Net Core\\ProyectoAPI\\MagicVilla\\MagicVilla_Web\\Models\\APIRequest.cs",
-              "RelativeToolTip": "MagicVilla_Web\\Models\\APIRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T03:32:07.345Z",
+              "WhenOpened": "2024-11-16T06:05:26.939Z",
               "EditorCaption": ""
             }
           ]
